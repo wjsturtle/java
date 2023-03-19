@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class Homework1 {
+public class Assignment1 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 				
